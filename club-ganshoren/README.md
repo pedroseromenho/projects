@@ -50,10 +50,10 @@ Ayant peu d'éléments, j'ai opté par réaliser ma propre maquette, plutôt que
 
 #### Test lighthouse
 
-Le résultat n'est pas assez satisfaisant. Le pluggin detecte des problèmes de lisibilité, du code en trop,... En effet cette typo en blanc dans le `menu` et le `footer` ne facilite pas la lecture.
+Le résultat n'est pas assez satisfaisant. Le pluggin detecte des problèmes de lisibilité, du code en trop,... En effet la typo choisie en blanc dans le `menu` et le `footer` ne facilite pas la lecture.
 
 ![test](light-house.png)
 
 #### Le Mockup
 
-![mockup](mockup.png)
+![mockup](mockup.pdf)
