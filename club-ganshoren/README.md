@@ -44,7 +44,8 @@ Ayant peu d'éléments, j'ai opté par réaliser ma propre maquette, plutôt que
 #### Méthodes de travail
 
 - De façon à rendre le projects dans les délais, j'ai fouillé dans mes projets projets précédents, en espèrant trouver des éléments qui fonctionneraient avec la maquette dessiné.
-- J'ai trouvé un site que j'avais fait avec le pluggin `fullpage.js`de [Alvaro Trigo](). Ce pluggin permet de faire des *one-pager* en responsive, des transitions entre sections, entre autres.
-- En amont j'ai exploré les animations css, de façon à créer une [cible en animation](https://codepen.io/pedroseromenho/pen/GGJKog). C'est encore à retravailler, de façon à la rajouter plus tard autant que `screen splash` ou autre.
+- J'ai trouvé un site que j'avais fait avec le pluggin `fullpage.js` de [Alvaro Trigo](). Ce pluggin permet de faire des *one-pager* en responsive, des transitions entre sections, entre autres.
+- En amont j'ai exploré les animations css pour créer une [cible en animation](https://codepen.io/pedroseromenho/pen/GGJKog). C'est encore à retravailler, pour eventuellement la rajouter plus tard autant que `screen splash` ou autre.
+- Malgré le côté pratique du pluggin `fullpage.js`, j'ai eu face à des problèmes de responsive. Ce pluggin contient son propre css et je n'ai pas dédié assez de temps pour le craquer correctement.
 
 ####
