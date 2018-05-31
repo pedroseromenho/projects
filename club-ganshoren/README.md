@@ -1,7 +1,7 @@
 # Ganshoren Shooting Club
-- **Where ?**: at [Becode]()
-- **When ?**:  from 31/05/2018 to ?
-- **By who ?**: [me]()
+- **Where ?** : At [Becode]()
+- **When ?** :  From 31/05/2018 to ?
+- **By who ?** : [Me]()
 
 ## About
 
@@ -11,12 +11,12 @@ Chaque projet est inspiré de situations et besoins réels, mais **ne fera pas l
 
 ## Phases
 
-- Phase 1 (guerilla style) : un one-pager en 8 heures.
-- Phase 2 : (managed style) : étude de la demande
-- Phase 3 : Design de la solution "one-pager v2"
-- Phase 4 : Création d’un "multipage website"
-- Phase 5 : développement d'un Backoffice (CMS)
-- Phase 6 : Application mobile / PWA
+- **Phase 1** : (guerilla style) : un one-pager en 8 heures.
+- **Phase 2** : (managed style) : étude de la demande
+- **Phase 3** : Design de la solution "one-pager v2"
+- **Phase 4** : Création d’un "multipage website"
+- **Phase 5** : développement d'un Backoffice (CMS)
+- **Phase 6** : Application mobile / PWA
 
 
 ## Phase 1: Guerilla
