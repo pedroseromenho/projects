@@ -38,5 +38,10 @@ Chaque projet est inspiré de situations et besoins réels, mais **ne fera pas l
 
 #### Difficultés rencontrées
 
-Face à ce challenge, réaliser un site web *satisficing* en six heures est en réalité très difficile. Mon projet, étant de réaliser un site pour un centre de tir, j'ai eu beaucoup de difficultés à rassembler un contenu qui était quasi innexistant. Merci [Guillaume]() ! :-P
-Ayant peu d'éléments, j'ai préféré réaliser ma propre maquette, plutôt que prendre un template. J'ai donc y passé ma matinée dessus, en me disant qu'une bonne maquette permet un code facile. J'ai été un peu trop perfectionniste, je dois l'avouer. Ça m'as fait perdre un peu de temps. Par la suite, de façon à rendre le projects dans les délais, la fouillé dans mon ordi de façon à trouver des éléments déjà réalisés qui fonctionneraient avec la maquette dessiné. J'ai trouvé un site que j'avais fait auparavant avec le pluggin `fullpage.js`de [Alvaro Trigo](), qui correspondait avec la structure de ma maquette. Ce pluggin permet de faire des *one-pager*, avec des transitions sympas entre sections, *à priori* responsive.
+Face à ce challenge, réaliser un site web *satisficing* en six heures est en réalité très difficile. Mon projet, étant de réaliser un site pour un centre de tir, j'ai eu des difficultés à rassembler un contenu qui était quasi innexistant. Merci [Guillaume]() ! :-P
+Ayant peu d'éléments, j'ai opté par réaliser ma propre maquette, plutôt que prendre un template. En me disant qu'une bonne maquette permet un code facile, j'ai y passé ma matinée dessus. 
+
+#### Méthodes de travail
+
+- De façon à rendre le projects dans les délais, j'ai fouillé dans mes projets projets précédents, en espèrant trouver des éléments qui fonctionneraient avec la maquette dessiné.
+- J'ai trouvé un site que j'avais fait avec le pluggin `fullpage.js`de [Alvaro Trigo](). Ce pluggin permet de faire des *one-pager*, avec des transitions sympas entre sections, *à priori* responsives.
