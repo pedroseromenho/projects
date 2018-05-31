@@ -48,4 +48,12 @@ Ayant peu d'éléments, j'ai opté par réaliser ma propre maquette, plutôt que
 - En amont j'ai exploré les animations css pour créer une [cible en animation](https://codepen.io/pedroseromenho/pen/GGJKog). C'est encore à retravailler, pour eventuellement la rajouter plus tard autant que `screen splash` ou autre.
 - Malgré le côté pratique du pluggin `fullpage.js`, j'ai eu face à des problèmes de responsive. Ce pluggin contient son propre css et je n'ai pas dédié assez de temps pour le craquer correctement.
 
-####
+#### Test lighthouse
+
+Le résultat n'est pas assez satisfaisant. Le pluggin detecte des problèmes de lisibilité, du code en trop,... En effet cette typo en blanc dans le `menu` et le `footer` ne facilite pas la lecture.
+
+![test](light-house.png)
+
+#### Le Mockup
+
+![mockup](mockup.png)
