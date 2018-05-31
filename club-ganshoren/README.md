@@ -2,7 +2,7 @@
 - **Where ?** : At [Becode](https://github.com/becodeorg/)
 - **When ?** :  From 31/05/2018 to ?
 - **By who ?** : [Me](https://github.com/pedroseromenho/)
-- **The Website** : [HERE]() - *Phase 1 version*.
+- **The Website** : [HERE](https://pedroseromenho.github.io/projects/club-ganshoren/index.html#firstPage) - *Phase 1 version*.
 
 ## About
 
