@@ -38,9 +38,5 @@ Chaque projet est inspiré de situations et besoins réels, mais **ne fera pas l
 
 #### Difficultés rencontrées
 
-Face à ce challenge, réaliser un site web ce n'est toujours pas une partie de plaisir. Six heures pour livrer un site *satisficing*, est en réalité très difficile. Sourtout, contrairement à certains de mes camaradas, je suis tombé sur le projet de réaliser un site pour un centre de tir. J'avais donc comme base:
-- Une adresse
-- Un té
-Face à ce challenge, réaliser un site web ce n'est toujours pas une partie de plaisir. Six heures pour livrer un site *satisficing*, est en réalité très difficile. Sourtout, contrairement à certains de mes camaradas, je suis tombé sur le projet de réaliser un site pour un centre de tir. J'avais donc comme base: lé
-Face à ce challenge, réaliser un site web ce n'est toujours pas une partie de plaisir. Six heures pour livrer un site *satisficing*, est en réalité très difficile. Mon projet ésur le projet de réaliser un site pour un centre de tir. Mon contenu de base est une adresse, les horaires et les calibres des pistolets. 
-Face à ce challenge, réaliser un site web ce n'est toujours pas une partie de plaisir. Six heures pour livrer un site *satisficing*, est en réalité très difficile. Mon projet, étant de réaliser un site pour un centre de tir, j'ai eu beaucoup de difficultés à rassembler un contenu qui était quasi innexistant.
+Face à ce challenge, réaliser un site web *satisficing* en six heures est en réalité très difficile. Mon projet, étant de réaliser un site pour un centre de tir, j'ai eu beaucoup de difficultés à rassembler un contenu qui était quasi innexistant. Merci [Guillaume]() ! :-P
+Ayant peu d'éléments, j'ai préféré réaliser ma propre maquette, plutôt que prendre un template. J'ai donc y passé ma matinée dessus, en me disant qu'une bonne maquette permet un code facile.
