@@ -2,7 +2,7 @@
 - **Where ?** : At [Becode]()
 - **When ?** :  From 31/05/2018 to ?
 - **By who ?** : [Me]()
-- **The Website** : [here](), *Phase 1 version*.
+- **The Website** : [HERE]() - *Phase 1 version*.
 
 ## About
 
@@ -36,4 +36,11 @@ Chaque projet est inspiré de situations et besoins réels, mais **ne fera pas l
 - Si possible, trouve un nom de domaine gratuit
 - Publier le résultat sur ce [formulaire](https://goo.gl/forms/ov5m6hVD4ZUxY2Yc2) avant la fin de la deadline.
 
-###
+#### Difficultés rencontrées
+
+Face à ce challenge, réaliser un site web ce n'est toujours pas une partie de plaisir. Six heures pour livrer un site *satisficing*, est en réalité très difficile. Sourtout, contrairement à certains de mes camaradas, je suis tombé sur le projet de réaliser un site pour un centre de tir. J'avais donc comme base:
+- Une adresse
+- Un té
+Face à ce challenge, réaliser un site web ce n'est toujours pas une partie de plaisir. Six heures pour livrer un site *satisficing*, est en réalité très difficile. Sourtout, contrairement à certains de mes camaradas, je suis tombé sur le projet de réaliser un site pour un centre de tir. J'avais donc comme base: lé
+Face à ce challenge, réaliser un site web ce n'est toujours pas une partie de plaisir. Six heures pour livrer un site *satisficing*, est en réalité très difficile. Mon projet ésur le projet de réaliser un site pour un centre de tir. Mon contenu de base est une adresse, les horaires et les calibres des pistolets. 
+Face à ce challenge, réaliser un site web ce n'est toujours pas une partie de plaisir. Six heures pour livrer un site *satisficing*, est en réalité très difficile. Mon projet, étant de réaliser un site pour un centre de tir, j'ai eu beaucoup de difficultés à rassembler un contenu qui était quasi innexistant.
