@@ -56,4 +56,4 @@ Le résultat n'est pas assez satisfaisant. Le pluggin detecte des problèmes de 
 
 #### Le Mockup
 
-![mockup](mockup.pdf)
+[HERE PDF](https://github.com/pedroseromenho/projects/edit/master/club-ganshoren/mockup.pdf)
