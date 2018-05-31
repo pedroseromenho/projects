@@ -6,6 +6,6 @@ Coding projects & experiments related with real life structures.
 
 1. [Ganshoren Shooting Club](https://github.com/pedroseromenho/projects/tree/master/club-ganshoren)
 
-### Autor
+#### Autor
 
-[Pedro Seromenho](https://github.com/pedroseromenho/)
+By [me](https://github.com/pedroseromenho/) with love.
