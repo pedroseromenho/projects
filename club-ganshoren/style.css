@@ -1,0 +1,253 @@
+@font-face {
+    font-family: LeagueGothic;
+    font-style: normal;
+    src: url(fonts/LeagueGothic-Regular.otf);
+  }
+  @font-face {
+    font-family: LeagueGothic;
+    font-style: italic;
+    src: url(fonts/LeagueGothic-Italic.otf);
+  }
+  @font-face {
+      font-family: LeagueGothic;
+      font-weight: bold;
+      src: url(fonts/LeagueGothic-CondensedItalic.otf);
+  }
+
+#myMenu{
+    position: absolute;
+    z-index: 5;
+    list-style: none;
+    font-family: LeagueGothic;
+    font-style: normal;
+    color: white;
+    font-size: 25px;
+    display: flex;
+}
+
+#myMenu li{
+    margin-right: 15px;
+    align-items: center;
+    justify-content: center;
+}
+
+#myMenu a{
+    color: white;
+    text-decoration: none; 
+    transition: all ease 0.5s;
+} 
+
+#myMenu a:hover{
+    color: grey;
+}    
+
+#section1{
+    background-image: url(img/1.jpg)
+}
+
+#section1 h1{
+    font-family: LeagueGothic;
+    font-style: bold;
+    font-size: 150px;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
+
+footer{
+    position: absolute;
+    z-index: 5;
+    font-family: LeagueGothic;
+    font-style: normal;
+    color: white;
+    font-size: 25px;
+    bottom: 5px;
+    left: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+
+footer p.mobile{
+    margin-right: 45px;
+}
+
+
+.lang{
+    font-family: LeagueGothic;
+    font-style: italic;
+    position: absolute;
+    z-index: 100;
+    font-size: 25px;
+    top: 23px;
+    right: 25px;
+}
+
+.lang a{
+    color: white;
+    text-decoration: none;
+    transition: all ease 0.5s;
+}
+
+.lang a:hover{
+    color: grey;
+}    
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+      
+}
+
+ .about{
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: sans-serif;
+    font-style: normal;
+    color: white;
+    font-size: 20px;
+}
+
+ span{
+    font-family: LeagueGothic;
+    font-style: italic;  
+    font-size: 30px;
+}
+
+#section3{
+    font-family: sans-serif;
+    font-style: normal;
+    color: white;
+    font-size: 25px;
+}
+
+.reservation-ctr{
+    display: flex;
+    flex-direction: row;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+ .horaires{
+     display: flex;
+     flex-direction: row;
+}
+
+.jours p{
+    margin-top: 0px;
+} 
+
+.heures{
+    margin-left: 30px;
+    margin-top: 0px;
+} 
+
+.heures p{
+    margin-top: 0px;
+} 
+
+.reservation{
+    margin-left: 200px;
+    width: 600px;
+}
+
+.reservation p{
+    border: 3px solid white;
+    padding: 10px;
+    font-weight: 100;
+    font-size: 14px;
+    font-style: italic;
+}
+
+.map{
+    display: flex;
+    justify-content: center;
+}
+
+ @media (max-width: 1000px) { 
+
+    #myMenu{
+        font-size: 14px;
+        padding-left: 10px;
+    }
+
+    #myMenu li img{
+        width: 50%;
+    } 
+    
+    #section1 h1{
+        font-family: LeagueGothic;
+        font-style: bold;
+        font-size: 50px;
+        text-align: center;
+        color: white;
+        text-transform: uppercase;
+    }
+
+    .lang{
+        font-size: 14px;
+        top: 15px;
+    }
+
+    footer{
+        font-size: 14px;
+        left: 20px;
+    }
+
+    .container{
+        display: block;
+        margin-left: 0px;
+    }
+
+    .container img{
+        width: 100%;
+    }
+
+    .about{
+        color: white;
+        padding-left: 5px;
+        padding-right: 5px;
+        font-family: sans-serif;
+        font-style: normal;
+        color: white;
+        font-size: 12px;
+    }
+
+    .reservation-ctr{
+        display: block;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    #section3{
+        font-family: sans-serif;
+        font-style: normal;
+        color: white;
+        font-size: 14px;
+    }
+
+    .horaires{
+        line-height: 10px;
+    }
+
+    .reservation{
+        margin-left: 0px;
+        width: 100%;
+    }
+
+    .reservation p{
+        border: 3px solid white;
+        padding: 5px;
+        font-weight: 100;
+        font-size: 13px;
+        font-style: italic;
+    }
+
+    .map{
+        display: block;
+        width: 100%;
+    }
+ }    
