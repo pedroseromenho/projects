@@ -1,5 +1,5 @@
 # One-Pager Website
-- **Client** :Ganshoren Shooting Club
+- **Client** : Ganshoren Shooting Club
 - **Where ?** : At [Becode](https://github.com/becodeorg/)
 - **When ?** :  From 31/05/2018 to ?
 - **By who ?** : [Me](https://github.com/pedroseromenho/)
