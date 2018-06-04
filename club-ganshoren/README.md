@@ -8,7 +8,7 @@
 ## About
 
 [FR]
-Dans le cadre de ma formation de web devellopeur à [Becode](https://github.com/becodeorg/), le [Fil rouge](https://github.com/becodeorg/lovelace-2/edit/master/Projects/fil-rouge/), est un projet qui a pour objectifs de nous permettre d'apprendre sur base de demandes réalistes.
+Dans le cadre de ma formation de web developpeur à [Becode](https://github.com/becodeorg/), le [Fil rouge](https://github.com/becodeorg/lovelace-2/edit/master/Projects/fil-rouge/), est un projet qui a pour objectifs de nous permettre d'apprendre sur base de demandes réalistes.
 Chaque projet est inspiré de situations et besoins réels, mais **ne fera pas l'objet d'une remise à un client "réel"**.
 
 ## Phases
@@ -44,10 +44,10 @@ Ayant peu d'éléments, j'ai opté par réaliser ma propre maquette, plutôt que
 
 #### Méthodes de travail
 
-- De façon à rendre le projects dans les délais, j'ai fouillé dans mes projets projets précédents, en espèrant trouver des éléments qui fonctionneraient avec la maquette dessiné.
-- J'ai trouvé un site que j'avais fait avec le pluggin `fullpage.js` de [Alvaro Trigo](https://github.com/alvarotrigo/fullPage.js/). Ce pluggin permet de faire des *one-pager* en responsive, des transitions entre sections, entre autres.
-- En amont j'ai exploré les animations css pour créer une [cible en animation](https://codepen.io/pedroseromenho/pen/GGJKog). C'est encore à retravailler, pour eventuellement la rajouter plus tard autant que `screen splash` ou autre.
-- Malgré le côté pratique du pluggin `fullpage.js`, j'ai eu face à des problèmes de responsive. Ce pluggin contient son propre css et je n'ai pas dédié assez de temps pour le craquer correctement.
+1. De façon à rendre le projects dans les délais, j'ai fouillé dans mes projets projets précédents, en espèrant trouver des éléments qui fonctionneraient avec la maquette dessiné.
+2. J'ai trouvé un site que j'avais fait avec le pluggin `fullpage.js` de [Alvaro Trigo](https://github.com/alvarotrigo/fullPage.js/). Ce pluggin permet de faire des *one-pager* en responsive, des transitions entre sections, entre autres.
+3. En amont j'ai exploré les animations css pour créer une [cible en animation](https://codepen.io/pedroseromenho/pen/GGJKog). C'est encore à retravailler, pour eventuellement la rajouter plus tard autant que `screen splash` ou autre.
+4. Malgré le côté pratique du pluggin `fullpage.js`, j'ai eu face à des problèmes de responsive. Ce pluggin contient son propre css et je n'ai pas dédié assez de temps pour le craquer correctement.
 
 #### Test lighthouse
 
@@ -61,9 +61,9 @@ Le résultat n'est pas assez satisfaisant. Le pluggin detecte des problèmes de 
 
 #### Objectifs Phase 2
 
-- Réaliser une maquette mobile, et corriger les problèmes de lisibilité sur celle du desktop.
-- Ajouter les *social links* dans la maquette.
-- Ajouter des animations css (ou javascript) pour le rendre plus attractive.
-- Réaliser des vrais formulaires.
-- Prendre le temps de faire des vrais `table`en html et css.
-- Corriger les responsive sur tous les types d'écran.
+1. Réaliser une maquette mobile, et corriger les problèmes de lisibilité sur celle du desktop.
+2. Ajouter les *social links* dans la maquette.
+3. Ajouter des animations css (ou javascript) pour le rendre plus attractive.
+4. Réaliser des vrais formulaires.
+5. Prendre le temps de faire des vrais `table`en html et css.
+6. Corriger les responsive sur tous les types d'écran.
