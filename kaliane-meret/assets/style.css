@@ -12,7 +12,7 @@ body{
 .container{
     text-align: center;
     position: absolute;
-    top: 50%;
+    top: 45%;
     transform: translateY(-50%);
     left: 0;
     right: 0;
@@ -37,7 +37,7 @@ a:hover{
 }
 
 img{
-    width: 10%;
+    width: 13%;
 }
 
 @media screen and (max-width: 640px) {
