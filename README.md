@@ -4,7 +4,7 @@ Coding projects & experiments related with real life structures.
 
 ## Direct Access
 
-1. Convivial ASBL: [Repository](https://github.com/mickeymike33/Conviviale-ASBL) / [Website](http://convivial-asbl.herokuapp.com/index.php) - 10/08/2018
+1. Convivial ASBL : [repository](https://github.com/mickeymike33/Conviviale-ASBL) / [website](http://convivial-asbl.herokuapp.com/index.php) - 10/08/2018
 1. [Kaliane Meret](https://github.com/pedroseromenho/projects/tree/master/kaliane-meret) - 14/06/2018.
 1. [Repair Café Schaerbeek](https://github.com/Steve-VE/becode-AHOD), with [Steve Van Esseche](https://github.com/Steve-VE) & [Marie Cambie](https://github.com/mcambie) - 07/06/2018.
 1. [Ganshoren Shooting Club](https://github.com/pedroseromenho/projects/tree/master/club-ganshoren) - 31/05/2018.
